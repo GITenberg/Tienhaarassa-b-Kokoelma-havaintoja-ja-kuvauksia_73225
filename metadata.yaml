@@ -1,0 +1,44 @@
+_repo: Tienhaarassa-b-Kokoelma-havaintoja-ja-kuvauksia_73225
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alkio, Santeri
+    aliases:
+    - Filander, Aleksander
+    - Filander, Santeri
+    - Paukkunen, Jussi
+    - Heikkiläinen, Iiska
+    - Heikkilainen, Iiska
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '5319'
+    url: http://www.gutenberg.org/2009/agents/5319
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Santeri_Alkio
+    - https://en.wikipedia.org/wiki/Santeri_Alkio
+description: ''
+gutenberg_issued: '2024-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73225'
+language: fi
+pgterms:marc905: 20170803122214alkio
+pgterms:marc906: '1900'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWerner Söderström, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 19th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Herra Penttinen -- Neronleimaus -- Lusiferin muistikirjasta -- Jos
+  -- Jumalan mieliharmi -- Kadonnut lammas -- Koettelemus -- Karjalanniemen Iisakki
+  -- Kala-Kaija -- Hermannintuvan Katri -- Oma koira ja naapurin koira -- Maaseutua
+  ihailemassa -- Karuja maita -- Uusi välikirja -- Yhteisen vaaran hetkellä -- Aasi
+  ja hevonen -- Jesus ja sunnuntaimetsästäjä -- Ylistysvirsi valon vastustajain kunniaksi.
+title: 'Tienhaarassa : $b Kokoelma havaintoja ja kuvauksia'
+url: http://www.gutenberg.org/ebooks/73225
